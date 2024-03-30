@@ -1,5 +1,5 @@
 # Awesome-Mamba
-Awesome paper and codes related to Mamba model
+🔥🔥🔥 Awesome papers and codes related to the Mamba model.
 
 | Title                                                        | Paper                                                       | Code                                                         |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
@@ -59,8 +59,16 @@ Awesome paper and codes related to Mamba model
 | H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation | [Arxiv 2403.13642](https://arxiv.org/abs/2403.13642)        | [wurenkai/H-vmunet](https://github.com/wurenkai/H-vmunet)    |
 | ProMamba: Prompt-Mamba for polyp segmentation                | [Arxiv 2403.13660](https://arxiv.org/abs/2403.13660)        | []()                                                         |
 | ZigMa: Zigzag Mamba Diffusion Model                          | [Arxiv 2403.13802](https://arxiv.org/abs/2403.13802)        | [taohu.me/zigma](https://taohu.me/zigma/)                    |
-
-
-
+|Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference|[Arxiv 2403.14520](https://arxiv.org/abs/2403.14520)|[h-zhao1997/cobra](https://github.com/h-zhao1997/cobra)
+|SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series|[Arxiv 2403.15360](https://arxiv.org/abs/2403.15360)|[badripatro/Simba](https://github.com/badripatro/Simba)|
+|CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification|[Arxiv 2403.16520](https://arxiv.org/abs/2403.16520)||
+|VMRNN:Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting|[Arxiv 2403.16536](https://arxiv.org/abs/2403.16536)|[yyyujintang/VMRNN-PyTorch](https://github.com/yyyujintang/VMRNN-PyTorch)|
+|Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion|[Arxiv 2403.17432](https://arxiv.org/abs/2403.17432)||
+|PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition|[Arxiv 2403.17695](https://arxiv.org/abs/2403.17695)|[ChenhongyiYang/PlainMamba](https://github.com/ChenhongyiYang/PlainMamba)|
+|Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation|[Arxiv 2403.17701](https://arxiv.org/abs/2403.17701)||
+|ReMamber: Referring Image Segmentation with Mamba Twister|[Arxiv 2403.17839](https://arxiv.org/abs/2403.17839)|
+|Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation|[Arxiv 2403.18257](https://arxiv.org/pdf/2403.18257)||
+|Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction|[Arxiv 2403.18795](https://arxiv.org/abs/2403.18795)||
+|RSMamba: Remote Sensing Image Classification with State Space Model|[Arxiv 2403.19654](https://arxiv.org/abs/2403.19654)||
 
 
